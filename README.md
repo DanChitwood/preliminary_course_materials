@@ -73,7 +73,7 @@ ______________________________
 
 ## Day 5: Grapevines and independence: agriculture, labor, and immigration between the US and Mexico 🍇🇲🇽
 
-![Alt text](assets/images/diegorivera.png)
+![Alt text](assets/images/diegorivera.png)  
 Figure legend: Epopeya del pueblo mexicano (The History of Mexico). Diego Rivera (1935), Palacio Nacional, Mexico City, Mexico. From [Wikimedia](https://en.wikipedia.org/wiki/File:Epopeya_del_pueblo_mexicano.jpg)
 
 The grapevine was introduced to Mexico, but had a disproportionately large impact on its development as a nation, and ultimately influenced questions about immigration and human rights beyond its borders to the US and the world. From the beginning of colonization with Cortés, Indigenous peoples were forced to plant the vine, and when they were successful, Spain prohibited wine production. This led Miguel Hidalgo to teach the poor viticulture, and shortly after the Spanish burned his teaching vineyards to the ground, he initiated Mexican independence with el grito (“the cry”). Later, Dolores Huerta would initiate the Delano grape strike which was the beginning of the United Farmworkers, which continues to this day to fight for the rights of the undocumented farmworkers that sustain the agricultural economy of the United States. 
