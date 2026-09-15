@@ -11,7 +11,6 @@ Submit a 2-3 page double-spaced essay or a 3-4 minute video that reflects on you
 
 **Assignment: Download Anaconda and get going with Python and Jupyter notebooks.**  
 You will be learning to find, analyze, interpret, and present quantitative data in this course. We will be using Python for this purpose. Before class, please watch the [introduction video](https://danchitwood.github.io/plants_and_python/). Then watch and work through the tutorial to download Anaconda, get going with Jupyter notebooks, write your first Python code, and the difference between coding and markdown cells: [Getting started | Empezando](https://danchitwood.github.io/plants_and_python/00_Installing_Anaconda/). 
-_______________________
 
 ## Day 2: Plants and People: An introduction to Mexican plant biodiversity and Nahuatl  
 
@@ -33,7 +32,6 @@ In Python, you will be learning about how to create variables, lists, and to ind
 * 🇺🇸[Variables, Lists & Indexing](https://danchitwood.github.io/plants_and_python/1.0_Variables/) / 🇲🇽[Variables, listas y indexación](https://danchitwood.github.io/plants_and_python/ES_1.0_Variables/)
 * 🇺🇸[Pre-class assignment](https://danchitwood.github.io/plants_and_python/1_practice/) / 🇲🇽[Tarea previa a la clase](https://danchitwood.github.io/plants_and_python/ES_1_practice/)
 * 🇺🇸[In-class activity: Plants and Climate](https://danchitwood.github.io/plants_and_python/1_activity/) / 🇲🇽[Actividad en clase: Las plantas y el clima](https://danchitwood.github.io/plants_and_python/ES_1_activity/)
-_____________________
 
 ## Day 3: Domestication and Mexico’s gift to the world: *Cintli* (maize), the *milpa*, and *las tres hermanas* 🌽🫘🎃
 
@@ -51,7 +49,6 @@ Plants&Python🪴🐍:
 * 🇺🇸[Visualizing data with matplotlib](https://danchitwood.github.io/plants_and_python/2.0_Modules/) / 🇲🇽[Visualización de gráficos con matplotlib](https://danchitwood.github.io/plants_and_python/ES_2.0_Modulos/)
 * 🇺🇸[Pre-class assignment](https://danchitwood.github.io/plants_and_python/2_practice/) / 🇲🇽[Tarea previa a la clase](https://danchitwood.github.io/plants_and_python/ES_2_practice/)
 * 🇺🇸[In-class activity: The shape of leaves and sunflowers](https://danchitwood.github.io/plants_and_python/2_activity/) / 🇲🇽[Actividad en clase: Las formas de las hojas y girasoles](https://danchitwood.github.io/plants_and_python/ES_2_activity/)
-___________________________
 
 ## Day 4: Cactus and culture: Mexican identity, ecology, and conservation 🌵
 
@@ -69,7 +66,6 @@ Plants&Python🪴🐍:
 * 🇺🇸[Loops & the golden angle](https://danchitwood.github.io/plants_and_python/3.0_Range_Function/) / [Loops y el ángulo dorado](https://danchitwood.github.io/plants_and_python/ES_3.0_La_funcion_range/)
 * 🇺🇸[Pre-class assignment](https://danchitwood.github.io/plants_and_python/3_practice/) / 🇲🇽[Tarea previa a la clase](https://danchitwood.github.io/plants_and_python/ES_3_practice/)
 * 🇺🇸[In-class activity: How to Build a Sunflower](https://danchitwood.github.io/plants_and_python/3_activity/) / 🇲🇽[Actividad en clase: Cómo construir un girasol](https://danchitwood.github.io/plants_and_python/ES_3_activity/)
-______________________________
 
 ## Day 5: Grapevines and independence: agriculture, labor, and immigration between the US and Mexico 🍇🇲🇽
 
