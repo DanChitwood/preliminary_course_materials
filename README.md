@@ -3,7 +3,7 @@ ______________________
 
 ## Day 1: Introduction to Plants 🪴 and to Python 🐍
 
-![Alt text](assets/images/mexicomapa500.png)
+![Alt text](assets/images/mexicomapa_reduced.png)
 Figure legend: *México: Un mapa culinario de plantas comestibles*, A culinary map of edible plants, by Dr. Annabel Romero Hernandez. Reproduced with permission for this course. Website: [https://opuntiavisual.org/projects](https://opuntiavisual.org/projects)
 
 **Assignment: Personal reflection on Mexico and your relationship to Mexican plants.**  
