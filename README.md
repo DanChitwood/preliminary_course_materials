@@ -56,7 +56,7 @@ ___________________________
 ## Day 4: Cactus and culture: Mexican identity, ecology, and conservation 🌵
 
 ![Alt text](assets/images/cactus.jpg)
-Figure legend: Part of the cactus collection at the *Jardín Botánico del Instituto de Biología de la UNAM*](https://www.ib.unam.mx/ib/jb/).
+Figure legend: Part of the cactus collection at the [*Jardín Botánico del Instituto de Biología de la UNAM*](https://www.ib.unam.mx/ib/jb/).
 
 **Read:**  
 [Ramírez-Rodríguez Y *et al.*. 2020. Ethnobotanical, nutritional and medicinal properties of Mexican drylands Cactaceae fruits: Recent findings and research opportunities.](https://www.sciencedirect.com/science/article/pii/S0308814619322228)
